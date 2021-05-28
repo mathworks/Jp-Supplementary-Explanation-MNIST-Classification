@@ -9,7 +9,7 @@ Deep Learning Toolboxにあるシッピングデモである、"分類用のシ�
 
 ### MathWorks製品 (http://www.mathworks.com)
 
-MATLAB release R202b以降で動作検証しています。
+MATLAB release R2020b以降で動作検証しています。
 - [MATLAB](https://jp.mathworks.com/products/matlab.html)
 - [Deep Learning Toolbox](https://jp.mathworks.com/products/deep-learning.html)
 
