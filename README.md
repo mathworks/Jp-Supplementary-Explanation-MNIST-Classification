@@ -5,7 +5,7 @@
 <!-- Add this icon to the README if this repo also appears on File Exchange via the "Connect to GitHub" feature --> 
 
 Deep Learning Toolboxにあるシッピングデモである、"分類用のシンプルな深層学習ネットワークの作成"の解説動画で使用するサンプルコードです。
-
+https://www.mathworks.com/videos/create-simple-deep-learning-network-for-classification-1623131102151.html
 
 ### MathWorks製品 (http://www.mathworks.com)
 
@@ -17,6 +17,7 @@ MATLAB release R2020b以降で動作検証しています。
 
 ## Getting Started 
 まずは、動画をご覧ください。
+https://www.mathworks.com/videos/create-simple-deep-learning-network-for-classification-1623131102151.html
 なお、動画中ではMNISTのデータセット（DigitDataset）をダウンロードするように話しておりますが、以下にありますのでこれをデスクトップにコピーください。
 C:\Program Files\MATLAB\R2021a\toolbox\nnet\nndemos\nndatasets
 使用されるMATLABのバージョンがR2021aではない場合、上記パスを適時書き換えてください。例えばR2020bであれば以下になります。
