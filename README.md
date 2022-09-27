@@ -26,7 +26,7 @@ C:\Program Files\MATLAB\R2020b\toolbox\nnet\nndemos\nndatasets
 
 ## License
 <!--- Make sure you have a License.txt within your Repo --->
-The license for <insert repo name> is available in the [LICENSE.TXT](LICENSE.TXT) file in this GitHub repository.
+The license is available in the LICENSE.TXT file in this GitHub repository.
 
 
 ## Community Support
