@@ -7,7 +7,7 @@
 Deep Learning Toolboxにあるシッピングデモである、"分類用のシンプルな深層学習ネットワークの作成"の解説動画で使用するサンプルコードです。
 https://www.mathworks.com/videos/create-simple-deep-learning-network-for-classification-1623131102151.html
 
-### MathWorks製品 (http://www.mathworks.com)
+### MathWorks製品 (https://www.mathworks.com)
 
 MATLAB release R2020b以降で動作検証しています。
 - [MATLAB](https://jp.mathworks.com/products/matlab.html)
