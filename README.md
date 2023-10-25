@@ -4,6 +4,8 @@
 [![View <File Exchange Title> on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/####-file-exchange-title)  
 <!-- Add this icon to the README if this repo also appears on File Exchange via the "Connect to GitHub" feature --> 
 
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=mathworks/Jp-Supplementary-Explanation-MNIST-Classification)
+
 Deep Learning Toolboxにあるシッピングデモである、"分類用のシンプルな深層学習ネットワークの作成"の解説動画で使用するサンプルコードです。
 https://www.mathworks.com/videos/create-simple-deep-learning-network-for-classification-1623131102151.html
 
